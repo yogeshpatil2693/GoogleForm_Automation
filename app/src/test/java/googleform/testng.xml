@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Tests for googleform Regression">
+    <test name = "Test case verifying functions of googleregistrationform">
+        <classes>
+            <class name="googleform.RegisterTest"></class>
+        </classes>    
+    </test> 
+</suite>
